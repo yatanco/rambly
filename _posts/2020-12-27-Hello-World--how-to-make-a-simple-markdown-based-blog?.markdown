@@ -4,11 +4,11 @@ Having a conversation the other day on starting a blog just to practice making o
 
 She is using this platform http://blot.im to do her blog, which is basically a dropbox folder connected to a bloggin platform, super simple right? So I commented "thats really cool, cause I know I will be looking for a way to just write markdown and get lost in the possibilities". 5 days later here we are, I researched how to install Ghost CMS on runcloud, I checked out blot but didnt want to pay the 4 bucks given I have my own server, so I checked a few different things before finally reaching what I think is the end of my current search.
 
-So whats my setup? I write my content on open source markdown editor http://typora.io and then upload it to <github.io> on github pages, which can be connected to a custom domain name which is where you are now http://rambly.yatan.co.
+So whats my setup? I write my content on open source markdown editor http://typora.io and then upload it to http://github.io on github pages, which can be connected to a custom domain name which is where you are now http://rambly.yatan.co.
 
 And thats actually the simplest way I found which even works for people who are not at all techy.
 
-So to inspire myself I am going to steal the quote from http://bitofababble.blot.im that actually got me here to see it whenever I scroll down this markdown file . 
+So to inspire myself I am going to steal the quote from http://bitofababble.blot.im that actually got me here to see it whenever I scroll down this markdown file .
 
 When Seth Godin was asked about writing, he shared:
 
@@ -20,6 +20,6 @@ So writing as a way of practicing creativity, of practicing verbalizing my exper
 
 Its 27th of December 2020 at the moment this is the first post I got on here. I called it rambly simply because I like that by calling it rambling I am taking a bit of the pressure of me to really see it as a draft of ideas rather than finished products.
 
-Alright so there we go! 
+Alright so there we go!
 
 Lets publish the first one.
