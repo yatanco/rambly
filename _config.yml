@@ -30,7 +30,7 @@ twitter_username: yatanblumenthal
 github_username:  yatanco
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
