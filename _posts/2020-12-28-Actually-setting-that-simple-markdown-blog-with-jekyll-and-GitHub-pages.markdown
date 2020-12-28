@@ -4,7 +4,7 @@ So there I was, already gloating about how I had built the blog. But turns out I
 
 So here to how I actually did it, quite simply followed this blog step by step. 
 
-https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a 
+[Creating your Blog for Free using Jekyll & GitHub Pages](https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a) 
 
 ## What do you need? 
 
